@@ -1,0 +1,56 @@
+body{
+   
+    background: url('images/048.jpg');
+    /*background: url('images/header-bg.jpg') no-repeat scroll center bottom / cover;*/
+    background-repeat: no-repeat fixed center center;
+    background-size: 1920px 1500px;
+    
+      
+}
+
+p{
+font-family: roboto;
+font-size: 24px;
+color: #fff;
+
+}
+
+h3{
+
+font-family: roboto;
+color: #fff;
+
+}
+
+
+.profile-img {
+    width: 96px;
+    height: 96px;
+    margin: 0 auto 10px;
+    display: block;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+
+
+.container{
+    background-color: rgba(12,9,1, 0.4);;
+    margin-top: 10%;
+    border-radius: 38px 110px 38px 156px;
+    width: 700px;
+    height: 450px;
+    align-content: center;
+    /*border: 2px dashed #edeaed;*/
+
+
+}
+
+.btn-danger{
+    background-color: ;
+    border-color: #fff;
+
+}
+
+
+    
